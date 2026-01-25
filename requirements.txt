@@ -4,3 +4,5 @@ python-multipart
 google-cloud-vision
 google-auth
 pydantic
+google-genai
+vertexai
