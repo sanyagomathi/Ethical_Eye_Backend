@@ -1,0 +1,3 @@
+backend/keys/
+*.json
+.env
